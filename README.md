@@ -1,6 +1,6 @@
 # Chris C. chatbot
 
-👶🏻 Priview>>> https://chrisc0210.github.io/chiandeye/
+👶🏻 Priview>>> https://chrisc0210.github.io/chatbot/
 
 👶🏻 Portfolio>>>https://chrisc0210.github.io/ChrisPortfolio/
 
